@@ -1,0 +1,28 @@
+Properties of SX CCD Lodestar (got by test_monitor.py)
+
+New device  SX CCD LodeStar
+New property  CONNECTION  for device  SX CCD LodeStar
+New property  DRIVER_INFO  for device  SX CCD LodeStar
+New property  POLLING_PERIOD  for device  SX CCD LodeStar
+New property  DEBUG  for device  SX CCD LodeStar
+New property  CONFIG_PROCESS  for device  SX CCD LodeStar
+New property  ACTIVE_DEVICES  for device  SX CCD LodeStar
+New property  CCD_EXPOSURE  for device  SX CCD LodeStar
+New property  CCD_ABORT_EXPOSURE  for device  SX CCD LodeStar
+New property  CCD_FRAME  for device  SX CCD LodeStar
+New property  CCD_BINNING  for device  SX CCD LodeStar
+New property  FITS_HEADER  for device  SX CCD LodeStar
+New property  CCD_INFO  for device  SX CCD LodeStar
+New property  CCD_COMPRESSION  for device  SX CCD LodeStar
+New property  CCD1  for device  SX CCD LodeStar
+New property  TELESCOPE_TIMED_GUIDE_NS  for device  SX CCD LodeStar
+New property  TELESCOPE_TIMED_GUIDE_WE  for device  SX CCD LodeStar
+New property  CCD_FRAME_TYPE  for device  SX CCD LodeStar
+New property  CCD_FRAME_RESET  for device  SX CCD LodeStar
+New property  CCD_RAPID_GUIDE  for device  SX CCD LodeStar
+New property  TELESCOPE_TYPE  for device  SX CCD LodeStar
+New property  WCS_CONTROL  for device  SX CCD LodeStar
+New property  UPLOAD_MODE  for device  SX CCD LodeStar
+New property  UPLOAD_SETTINGS  for device  SX CCD LodeStar
+New property  CCD_EXPOSURE_LOOP  for device  SX CCD LodeStar
+New property  CCD_EXPOSURE_LOOP_COUNT  for device  SX CCD LodeStar 
